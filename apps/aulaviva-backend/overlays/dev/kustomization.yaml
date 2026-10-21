@@ -12,5 +12,6 @@ patches:
   - path: hpa-patch.yaml
 
 images:
+ images:
   - name: ghcr.io/merinobranco10/equipo-aulaviva-backend
-    digest: sha256:7310c3face99cd68bd19f256b905d5d6c61bc701c6d8dcca67e521c4e1b45377
+    digest: sha256:6d747b2efadc5163f2ce85d0037cef0b4951c6a74c927524352d39db4fc6fa69
